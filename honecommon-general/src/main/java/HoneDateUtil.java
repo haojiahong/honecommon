@@ -7,7 +7,7 @@ import java.util.Date;
 /**
  * Created by haojiahong on 2017/9/26.
  */
-public class HongDateUtil {
+public class HoneDateUtil {
 
     /**
      * 获取当前时间的字符串(格式为yyyy-MM-dd HH:mm:ss)
